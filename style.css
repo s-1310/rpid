@@ -1,0 +1,49 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #333;
+    color: white;
+    position:relative;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+    
+}
+#t1 td{
+    text-align: center ;
+    border:1px solid black ;
+    padding: 5px;
+}  
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 0px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+#logo{
+    float: left;
+    height: 10px;
+    width: 10px;
+
+}
+#rdip{
+    float: right;
+    font-size: xx-large;
+}
+header{
+    display: block;
+}
+#profile{
+    float: right;
+    width: 100px;
+    height: 200px;
+}
