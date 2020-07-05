@@ -1,0 +1,15 @@
+.container div{
+    width: 350px;
+    height: 300px;
+    align-self: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    left: 50%;
+}
+
+
+div input {
+    margin: 5px;
+    padding: 5px;
+}
